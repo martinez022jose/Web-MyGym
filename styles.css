@@ -1,0 +1,9 @@
+.tamanioHeader{
+    font-size:20px;
+}
+
+.orangeHover:hover{
+    color:orange;
+    text-decoration:none;
+    
+}
