@@ -1,3 +1,9 @@
+
+ * {
+    font-family: 'Alata', sans-serif;
+    font-family: 'Architects Daughter', cursive;
+  }
+
 .tamanioHeader{
     font-size:20px;
 }
@@ -22,6 +28,18 @@
 
 .orangeColor{
     color:orange;
+}
+
+.orange{
+    background:orange;
+}
+
+.grisClaro{
+    background:#ededed;
+}
+
+.grisClaroColor{
+    color:#ededed;
 }
 
 .black{
