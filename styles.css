@@ -2,8 +2,20 @@
     font-size:20px;
 }
 
+.tamanioParrafo{
+    font-size:20px;
+}
+
+.tamanioPass{
+    font-size:30px;
+}
+
 .orangeHover:hover{
     color:orange;
     text-decoration:none;
     
+}
+
+.black{
+    color:black;
 }
