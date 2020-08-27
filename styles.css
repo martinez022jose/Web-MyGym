@@ -16,8 +16,17 @@
     
 }
 
+.white{
+    color:white;
+}
+
 .black{
+    background:black;
+}
+
+.labelConf{
     color:black;
+    font-size: 15px;
 }
 
 .imagenGeneral{
@@ -25,7 +34,11 @@
     widows: 100%;
 }
 
-.condicionGeneral{
+.ceroMargenes{
     margin:0px;
     padding: 0px;
+}
+
+.tamanioFull{
+    font-size:40px;
 }
