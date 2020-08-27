@@ -19,3 +19,13 @@
 .black{
     color:black;
 }
+
+.imagenGeneral{
+    height: 400px;
+    widows: 100%;
+}
+
+.condicionGeneral{
+    margin:0px;
+    padding: 0px;
+}
