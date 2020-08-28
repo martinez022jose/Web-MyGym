@@ -6,7 +6,7 @@ Poder maquetar una pagina web - Web Gym, donde se utilizaremos **HTML** y **CSS*
 ## Modelado :memo:
 > Pagina Principal:
 
-<img height="1800px" width="700px" src="https://github.com/martinez022jose/Web-MyGym/blob/master/ScreenShotReadMe/screen.png"/>
+<img height="1200px" width="1000px" src="https://github.com/martinez022jose/Web-MyGym/blob/master/ScreenShotReadMe/screen.png"/>
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
