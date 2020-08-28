@@ -1,7 +1,7 @@
 # Web MyGym
 
 ## Objetivo :dart:
-Poder maquetar una pagina web - Web Gym, donde se utilizaremos **HTML** y **CSS**. Ademas incorporaremos uso del framework **Bootstrap**, para agilizar determinados procesos. Se busca poner en practica el conocimiento adquirido de **Bootstrap**.
+Poder maquetar una pagina web - Web Gym, donde utilizaremos **HTML** y **CSS**. Ademas incorporaremos uso del framework **Bootstrap**, para agilizar determinados procesos. Se busca poner en practica el conocimiento adquirido de **Bootstrap**.
 
 ## Modelado :memo:
 > Pagina Principal:
