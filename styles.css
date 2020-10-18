@@ -64,3 +64,17 @@
 .tamanioFull{
     font-size:40px;
 }
+
+.error{
+    color:white;
+    background: red;
+    padding: 10px;
+ 	
+}
+
+.mensajeExitoso{
+    background:green;
+    color:white;
+    padding: 10px;
+ 	 
+}
