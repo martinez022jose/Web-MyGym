@@ -84,3 +84,28 @@
     padding: 10px;
  	 
 }
+@media(min-width:1024px){
+    section .imgLimit{
+        height: 700px;
+        width: auto;
+    }
+}
+
+
+@media(max-width:340px){
+    section .imgLimit{
+        height: auto;
+        width: auto;
+        margin-top: 30%;
+    }
+
+    section .fontParrafo{
+        font-size: 10px;
+    }
+
+    section .fontTitulo{
+        font-size: 15px;
+    }
+
+
+}

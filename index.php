@@ -22,17 +22,17 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100 img-fluid" src="Imagenes/slider3.jpg" style="height: 700px;">
+                    <img class="d-block w-100 img-fluid imgLimit" src="Imagenes/slider3.jpg">
                     <div class="carousel-caption d-md-block">
-                        <h2>Lorem ipsum dolor sit amet.</h2>
-                        <p class="mt-5 tamanioParrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sed quaerat dolores dolor nostrum officiis odit, dolorem iusto eius odio recusandae vero placeat</p>
+                        <h2 class="fontTitulo">Lorem ipsum dolor sit amet.</h2>
+                        <p class="mt-5 tamanioParrafo fontParrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sed quaerat dolores dolor nostrum officiis odit, dolorem iusto eius odio recusandae vero placeat</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="Imagenes/slider2.jpg" style="height: 700px;">
+                    <img class="d-block w-100 img-fluid imgLimit" src="Imagenes/slider2.jpg">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="Imagenes/slider1.jpg" style="height: 700px;">
+                    <img class="d-block w-100 img-fluid imgLimit" src="Imagenes/slider1.jpg">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

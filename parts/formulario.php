@@ -1,7 +1,7 @@
 <!--Comienzo Formulario-->
 <section class="container-fluid p-5 black">
       <div class="row d-flex justify-content-center py-5">
-        <div class="col-lg-4 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
           <h3 class="text-center mb-5 grisClaroColor">Formulario Contacto</h3>
           <form method="POST" action="">
               <div class="resFormulario col-lg-12">
