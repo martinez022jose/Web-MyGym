@@ -12,7 +12,7 @@
    <?php include('./parts/nav.php'); ?>
 
    <!--Comienzo Slider-->
-    <section class="container-fluid">
+    <section class="container-fluid mt">
         <div class="row">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">

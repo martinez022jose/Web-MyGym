@@ -92,11 +92,14 @@
 }
 
 
-@media(max-width:340px){
+@media(max-width:420px){
     section .imgLimit{
         height: auto;
         width: auto;
-        margin-top: 30%;
+    }
+
+    .mt{
+        margin-top: 25%;
     }
 
     section .fontParrafo{
