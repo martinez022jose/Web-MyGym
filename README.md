@@ -5,7 +5,7 @@ Poder maquetar una pagina web - Web Gym, donde utilizaremos **HTML** y **CSS**. 
 
 ## Modelado :memo:
 
-Link en <a src="https://web-my-gym.000webhostapp.com/">000webhost</a>
+Link en 000webhost: <a src="https://web-my-gym.000webhostapp.com/">https://web-my-gym.000webhostapp.com/t</a>
 
 > Pagina Principal:
 
