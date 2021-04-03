@@ -1,7 +1,10 @@
 
  * {
-    font-family: 'Alata', sans-serif;
-    font-family: 'Architects Daughter', cursive;
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+     font-family: 'Alata', sans-serif;
+     font-family: 'Architects Daughter', cursive;
   }
 
 .tamanioHeader{
@@ -18,8 +21,24 @@
 
 .orangeHover:hover{
     color:orange;
-    text-decoration:none;
     
+}
+
+.absolute{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    left: 0px;
+    bottom:0px;
+    justify-content: center;
+}
+
+.relative{
+    position: relative;
+}
+
+.orangeHover{
+    text-decoration: none;
 }
 
 .centrar{
@@ -62,10 +81,6 @@
     widows: 100%;
 }
 
-.ceroMargenes{
-    margin:0px;
-    padding: 0px;
-}
 
 .tamanioFull{
     font-size:40px;

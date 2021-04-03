@@ -19,7 +19,7 @@
                 <label class="labelConf">Email : </label>
                 <input type="mail" class="form-control" name="email" id="email" placeholder="ejemplo@correro.com.ar" required>
               </div>
-              <div class="form-group">
+              <div class="form-group py-3">
                 <textarea class="form-control" name="mensaje" id="mensaje" placeholder="Realizar Comentario" required></textarea>
               </div>
               <button type="submit" class="btn btn-success btn-block p-3" id="buttonEnviar">Enviar</button>

@@ -6,13 +6,14 @@
     <title>Web-MyGym</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     
-    <?php include("./parts/head.php"); ?>   
-</head>
+    <?php include('./parts/head.php'); ?>   
+    
 <body>
    <?php include('./parts/nav.php'); ?>
+   
 
    <!--Comienzo Slider-->
-    <section class="container-fluid mt">
+    <section class="container-fluid m-0 p-0">
         <div class="row">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -24,8 +25,8 @@
                   <div class="carousel-item active">
                     <img class="d-block w-100 img-fluid imgLimit" src="Imagenes/slider3.jpg">
                     <div class="carousel-caption d-md-block">
-                        <h2 class="fontTitulo">Lorem ipsum dolor sit amet.</h2>
-                        <p class="mt-5 tamanioParrafo fontParrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sed quaerat dolores dolor nostrum officiis odit, dolorem iusto eius odio recusandae vero placeat</p>
+                        <h2>Lorem ipsum dolor sit amet.</h2>
+                        <p class="mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sed quaerat dolores dolor nostrum officiis odit, dolorem iusto eius odio recusandae vero placeat</p>
                     </div>
                   </div>
                   <div class="carousel-item">
@@ -52,41 +53,41 @@
     <section class="container-fluid">
             <div class="row tamanioParrafo">
               
-                <div class="col-lg-4 col-md-6 col-sm-6 ceroMargenes ">
+                <div class="col-lg-4 col-md-6 col-sm-6 relative  m-0 p-0">
                   <img src="Imagenes/dep1.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block ">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
     
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 ceroMargenes">
+                <div class="col-lg-4 col-md-6 col-sm-6 relative  m-0 p-0">
                   <img src="Imagenes/dep2.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 ceroMargenes">
+                <div class="col-lg-4 col-md-6 col-sm-6 relative m-0 p-0">
                   <img src="Imagenes/dep3.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-6 ceroMargenes col-sm-6">
+                <div class="col-lg-4 col-md-6 relative col-sm-6 m-0 p-0">
                   <img src="Imagenes/dep4.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-6 ceroMargenes col-sm-6">
+                <div class="col-lg-4 col-md-6 relative col-sm-6 m-0 p-0">
                   <img src="Imagenes/dep5.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-6 ceroMargenes col-sm-6">
+                <div class="col-lg-4 col-md-6 relative col-sm-6 m-0 p-0">
                   <img src="Imagenes/dep6.jpg" class="img-fluid" style="height: 500px;">
                   <div class="carousel-caption d-md-block">
-                    <a href="#" class="orangeHover white"><p>Lorem ipsum dolor sit amet.</p></a>
+                    <a href="#" class="orangeHover white absolute"><p>Lorem ipsum dolor sit amet.</p></a>
                   </div>
                 </div>
                 

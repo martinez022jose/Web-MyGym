@@ -1,5 +1,9 @@
-<!--Bootstrap Css-->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-<!--Fin Bootstrap-->
+
+
+<!--Bootstrap4-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+	<!--Fin Bootstrap-->
+
 <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
